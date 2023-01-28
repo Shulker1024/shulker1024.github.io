@@ -30,20 +30,30 @@ of China, 2021, 2022
 
 Research experience
 ======
-September 2022–Present//
-Galaxy co-evolution with their central supermassive black holes//
-Advisor: Professor Lulu Fan (USTC).//
+### September 2022–Present
+Galaxy co-evolution with their central supermassive black holes
+
+
+Advisor: Professor Lulu Fan (USTC).
+
+
 Using data from several sky surveys, I conducted multi-wavelength image decomposition of high-redshift galaxies, in order to derive luminosity and velocity dispersion of bulges in them. Combined with mass measurement of black holes, this would improve our understanding of correlations between black holes and their host galaxies.
-August 2021–August 2022//
-Particle Cosmology Group at USTC//
-Advisor: Professor Yifu Cai (University of Science and Technology of China).//
+### August 2021–August 2022
+Particle Cosmology Group at USTC
+
+
+Advisor: Professor Yifu Cai (University of Science and Technology of China).
+
+
 I studied possible inflation models and used data from COBE to test them.
   
 Languages & skills
 ======
-# Languages//
-English (fluent, TOFEL: 101, GRE: 330), Chinese (native)//
-Computer skills//
+### Languages
+English (fluent, TOFEL: 101, GRE: 330), Chinese (native)
+
+
+### Computer skills
 Proficient in: C, C++, Python, LATEX, Mathematica, MATLAB, COMSOL
 
 Other interests
