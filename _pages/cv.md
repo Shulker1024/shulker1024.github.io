@@ -17,16 +17,20 @@ Research interests
 Education
 ======
 * B.S. in Astronomy, University of Science and Technology of China(USTC), 2020-Present
+
+
   Advisor: Professor Lulu Fan. GPA: 4.09/4.3. Ranking: 1/29 (astronomy major).
+  
+  
   Weighted average score: 93.24/100.
 
 Honors and scholarships
 ======
-* The Chinese Mathematics Competition (first prize), Chinese Mathematical Society, 2022
+* The Chinese Mathematics Competition (first prize), Chinese Mathematical Society (2022)
 * China National Scholarship (top 1%), Ministry of Education of the People’s Republic
-of China, 2021, 2022
-* Scholarship of the Topnotch Basic Discipline Program (Grade 1), USTC, 2021, 2022
-* Outstanding Freshman Scholarship (Grade 2), USTC, 2020
+of China (2021, 2022)
+* Scholarship of the Topnotch Basic Discipline Program (Grade 1), USTC (2021, 2022)
+* Outstanding Freshman Scholarship (Grade 2), USTC (2020)
 
 Research experience
 ======
