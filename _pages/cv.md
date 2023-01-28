@@ -63,4 +63,4 @@ Proficient in: C, C++, Python, LATEX, Mathematica, MATLAB, COMSOL
 Other interests
 ======
 I enjoy middle-distance race and often come in first or second place at school sports
-meetings. I am also obsessed with literary works and often write about them
+meetings. I am also obsessed with literary works and often write about them.
