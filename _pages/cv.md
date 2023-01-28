@@ -9,49 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
+Research interests
+======
+* Galaxies, black holes, star formation, AGNs, hot DOGs, coevolution between black
+  holes and their host galaxies
+
 Education
 ======
-* B.S. in Astronomy, University of Science and Technology of China(USTC), 2012
+* B.S. in Astronomy, University of Science and Technology of China(USTC), 2020-Present
+  Advisor: Professor Lulu Fan. GPA: 4.09/4.3. Ranking: 1/29 (astronomy major).
+  Weighted average score: 93.24/100.
 
-Work experience
+Honors and scholarships
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+2022 The Chinese Mathematics Competition (first prize), Chinese Mathematical Society;
+2021, 2022 China National Scholarship (top 1%), Ministry of Education of the People’s Republic
+of China;
+2021, 2022 Scholarship of the Topnotch Basic Discipline Program (Grade 1), USTC;
+2020 Outstanding Freshman Scholarship (Grade 2), USTC
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+September 2022–Present
+====
+Galaxy co-evolution with their central supermassive black holes
+Advisor: Professor Lulu Fan (USTC).
+Using data from several sky surveys, I conducted multi-wavelength image decomposition of high-redshift galaxies, in order to derive luminosity and velocity dispersion of bulges in them. Combined with mass measurement of black holes, this would improve our understanding of correlations between black holes and their host galaxies.
+August 2021–August 2022
+====
+Particle Cosmology Group at USTC
+Advisor: Professor Yifu Cai (University of Science and Technology of China).
+I studied possible inflation models and used data from COBE to test them.
+  
+Languages & skills
+======
+Languages
+====
+English (fluent, TOFEL: 101, GRE: 330), Chinese (native)
+Computer skills
+====
+Proficient in: C, C++, Python, LATEX, Mathematica, MATLAB, COMSOL
 
-Publications
+Other interests
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+I enjoy middle-distance race and often come in first or second place at school sports
+meetings. I am also obsessed with literary works and often write about them
