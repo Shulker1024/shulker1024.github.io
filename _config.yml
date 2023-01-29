@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bojun Zhang"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Bojun Zhang"
 description              : &description "personal description"
