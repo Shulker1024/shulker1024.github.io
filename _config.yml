@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Bojun Zhang"
 title_separator          : "-"
 name                     : &name "Bojun Zhang"
 description              : &description "personal description"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "zhngbjn19"
   vine             :
   weibo            :
   xing             :
