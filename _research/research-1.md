@@ -1,3 +1,7 @@
-### Coevolution of supermassive black holes and their host galaxies
+---
+title: "Coevolution of supermassive black holes and their host galaxies"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: research
+--- 
 Supermassive black holes and their host galaxies have highly correlated properties, which indicates possible coevolution between them. These correlations have been better measured in low-redshift galaxies. However, 
 in high-redshift galaxies, there are difficulties regarding mass measurement of black holes and decomposition of galaxy structures. To address this problem, we study hot-DOGs(hot dust-obscured galaxies). Cores of these galaxies are easier to be told from other parts. Ultimately, this study aims to improve the correlation between black holes and bulges.
