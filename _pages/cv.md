@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-For a more detailed (PDF) version of my CV click [here](https://home.ustc.edu.cn/~hoglin/)
+For a more detailed (PDF) version of my CV click [here](http://home.ustc.edu.cn/~hoglin/)
 
 
 {% include base_path %}
