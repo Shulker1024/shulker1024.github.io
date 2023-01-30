@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+For a more detailed (PDF) version of my CV click [here](home.ustc.edu.cn/~hoglin/)
 Research interests
 ======
 * Galaxies, black holes, star formation, AGNs, hot DOGs, coevolution between black
