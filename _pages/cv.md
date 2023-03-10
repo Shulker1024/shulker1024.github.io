@@ -55,7 +55,7 @@ I studied possible inflation models and used data from COBE to test them.
 Languages & skills
 ======
 ### Languages
-English (fluent, TOFEL: 101, GRE: 330), Chinese (native)
+English (fluent, TOFEL: 108(Reading:30, Listening:30, Speaking: 22, Writing: 26), GRE: 330), Chinese (native)
 
 
 ### Computer skills
