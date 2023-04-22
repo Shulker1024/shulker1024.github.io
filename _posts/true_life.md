@@ -1,7 +1,7 @@
 ---
 title: '真实的生活'
-date: 2023-04/22
-permalink: /posts/2023/04/blog-post-3/
+date: 2022-06-30
+permalink: /true_life
 tags:
   - cool posts
   - category1
