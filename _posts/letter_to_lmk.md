@@ -1,7 +1,7 @@
 ---
 title: 'Letter to LMK'
 date: 2023-02-09
-permalink: /posts/2023/02/blog-post-1/
+permalink: /posts/letter_to_lmk/
 tags:
   - cool posts
   - category1
