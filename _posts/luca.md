@@ -1,7 +1,7 @@
 ---
 title: '卢卡'
-date: 2023-04-22
-permalink: /posts/2023/04/blog-post-2/
+date: 2022-03-24
+permalink: /posts/luca/
 tags:
   - cool posts
   - category1
