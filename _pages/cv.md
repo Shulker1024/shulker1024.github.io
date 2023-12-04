@@ -28,7 +28,6 @@ Honors and scholarships
 * 2022    The Chinese Mathematics Competition (first prize)
 * 2021, 2022, 2023    China National Scholarship (top 1%) 
 * 2021, 2022, 2023    Scholarship of the Topnotch Basic Discipline Program (Grade A)
-<!-- -->* Outstanding Freshman Scholarship (Grade 2), USTC (2020)
 
 Research experience
 ======
@@ -36,7 +35,7 @@ Research experience
 Position of radio AGNs relative to the star-forming main sequence
 
 
-Advisor: Niel Brandt (The Pennsylvania State University).
+Advisor: Professor William Nielsen Brandt (The Pennsylvania State University).
 
 
 - established the star-forming main sequence and the position of radio AGNs relative to it using data from three deep-drilling fields 
@@ -47,11 +46,11 @@ Advisor: Niel Brandt (The Pennsylvania State University).
 The scaling relations between the mass of supermassive black holes and properties of the host galaxies at high redshifts
 
 
-Advisor: Lulu Fan (USTC).
+Advisor: Professor Lulu Fan (University of Science and Technology of China).
 
 
-- selected hot dust-obscured galaxies (hot-DOGs) using data from WISE and SDSS\newline
-- conducted multiwavelength image decomposition of hot-DOGs and derived luminosity and velocity dispersion of bulges in them\newline
+- selected hot dust-obscured galaxies (hot-DOGs) using data from WISE and SDSS
+- conducted multiwavelength image decomposition of hot-DOGs and derived luminosity and velocity dispersion of bulges in them
 - explored the correlations between black hole mass and bulge luminosity, as well as the correlations between black hole mass and velocity dispersion
   
 Languages & skills
@@ -67,12 +66,8 @@ Activities
 ======
 ### September 2022 -- June 2023
 Organizer and Volunteer: Shining Run
-- Played a major role in organizing and carrying the “Shining Run” events at USTC.
+* Played a major role in organizing and carrying the “Shining Run” events at USTC.
 ### September 2022 -- June 2023 
 Volunteer: Feral Cat Rescue
-- Documented and rescued feral cats on campus to enhance their living conditions, promoting public awareness of stray animal rescue.
+* Documented and rescued feral cats on campus to enhance their living conditions, promoting public awareness of stray animal rescue.
 
-<!-- Other interests
-======
-I enjoy middle-distance race and often come in first or second place at school sports
-meetings. I am also obsessed with literary works and often write about them.
