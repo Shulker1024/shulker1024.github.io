@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<!-- --> For PDF version of my CV click [here](http://home.ustc.edu.cn/~hoglin/)
 
 
 {% include base_path %}
@@ -67,6 +66,7 @@ Activities
 ### September 2022 -- June 2023
 Organizer and Volunteer: Shining Run
 * Played a major role in organizing and carrying the “Shining Run” events at USTC.
+
 ### September 2022 -- June 2023 
 Volunteer: Feral Cat Rescue
 * Documented and rescued feral cats on campus to enhance their living conditions, promoting public awareness of stray animal rescue.
