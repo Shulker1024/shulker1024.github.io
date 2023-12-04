@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a fourth year student at University of Science and Technology of China (USTC), majoring in astronomy. 
-<!--I am currently researching active galactic nuclei and galaxies.
+
 
 
 
